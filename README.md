@@ -36,7 +36,7 @@ Para ejecutar este proyecto, deberá agregar la siguiente variable de entorno a 
 python scripts/iv.py
 ```
 
-La razón por la que se almacena el IV es porque debe ser el mismo valor al cifrar y descifrar (exactamente como la clave)
+La razón por la que se almacena el IV es porque debe ser el mismo valor al cifrar y descifrar (exactamente como la clave).
 
 ## Salir del entorno virtual
 ```
